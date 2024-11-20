@@ -129,8 +129,8 @@ If you've never written a for-loop, or don't know what a string is in programmin
 `simple programs`
 `simple data structures`
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
+Courses | Duration | Effort | Prerequisites | Discussion | Done
+:-- | :--: | :--: | :--: | :--: | :--:
 [Introduction to programming](coursepages/intro-programming/README.md) | 10 weeks | 10 hours/week | none | [chat](https://discord.gg/syA242Z) | ✅
 
 ### Introduction to Computer Science
@@ -143,8 +143,8 @@ This course will introduce you to the world of computer science. Students who ha
 `basic data structures and algorithms`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
+Courses | Duration | Effort | Prerequisites | Discussion | Done
+:-- | :--: | :--: | :--: | :--: | :--:
 [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9) | ✅
 
 ## Core CS
